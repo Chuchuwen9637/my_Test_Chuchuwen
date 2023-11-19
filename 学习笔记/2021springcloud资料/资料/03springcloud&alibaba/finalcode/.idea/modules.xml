@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud_alibaba_parent/springcloud_alibaba_commons/springcloud_alibaba_commons.iml" filepath="$PROJECT_DIR$/springcloud_alibaba_parent/springcloud_alibaba_commons/springcloud_alibaba_commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_alibaba_parent/springcloud_alibaba_gateway/springcloud_alibaba_gateway.iml" filepath="$PROJECT_DIR$/springcloud_alibaba_parent/springcloud_alibaba_gateway/springcloud_alibaba_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_alibaba_parent/springcloud_alibaba_parent.iml" filepath="$PROJECT_DIR$/springcloud_alibaba_parent/springcloud_alibaba_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_alibaba_parent/springcloud_alibaba_products/springcloud_alibaba_products.iml" filepath="$PROJECT_DIR$/springcloud_alibaba_parent/springcloud_alibaba_products/springcloud_alibaba_products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_alibaba_parent/springcloud_alibaba_users/springcloud_alibaba_users.iml" filepath="$PROJECT_DIR$/springcloud_alibaba_parent/springcloud_alibaba_users/springcloud_alibaba_users.iml" />
+    </modules>
+  </component>
+</project>

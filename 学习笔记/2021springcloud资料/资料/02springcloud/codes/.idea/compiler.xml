@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud_01eureka_server" />
+        <module name="springcloud_02eureka_client" />
+        <module name="springcloud_03consulclient" />
+        <module name="springcloud_04users" />
+        <module name="springcloud_05orders" />
+        <module name="springcloud_06category" />
+        <module name="springcloud_07product" />
+        <module name="springcloud_08hystrix" />
+        <module name="springcloud_09openfeign_hystrix" />
+        <module name="springcloud_10hystrix_dashboard" />
+        <module name="springcloud_11gateway" />
+        <module name="springcloud_12configserver" />
+        <module name="springcloud_13configclient" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud_01eureka_server" target="1.8" />
+      <module name="springcloud_02eureka_client" target="1.8" />
+      <module name="springcloud_03consulclient" target="1.8" />
+      <module name="springcloud_04users" target="1.8" />
+      <module name="springcloud_05orders" target="1.8" />
+      <module name="springcloud_06category" target="1.8" />
+      <module name="springcloud_07product" target="1.8" />
+      <module name="springcloud_08hystrix" target="1.8" />
+      <module name="springcloud_09openfeign_hystrix" target="1.8" />
+      <module name="springcloud_10hystrix_dashboard" target="1.8" />
+      <module name="springcloud_11gateway" target="1.8" />
+      <module name="springcloud_12configserver" target="1.8" />
+      <module name="springcloud_13configclient" target="1.8" />
+      <module name="springcloud_parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

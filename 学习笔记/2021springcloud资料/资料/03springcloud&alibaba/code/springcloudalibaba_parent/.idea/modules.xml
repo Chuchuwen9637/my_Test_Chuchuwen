@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloudalibaba_01nacosclient/springcloudalibaba_01nacosclient.iml" filepath="$PROJECT_DIR$/springcloudalibaba_01nacosclient/springcloudalibaba_01nacosclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudalibaba_02users/springcloudalibaba_02users.iml" filepath="$PROJECT_DIR$/springcloudalibaba_02users/springcloudalibaba_02users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudalibaba_03products/springcloudalibaba_03products.iml" filepath="$PROJECT_DIR$/springcloudalibaba_03products/springcloudalibaba_03products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudalibaba_04configclient/springcloudalibaba_04configclient.iml" filepath="$PROJECT_DIR$/springcloudalibaba_04configclient/springcloudalibaba_04configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudalibaba_05sentinel/springcloudalibaba_05sentinel.iml" filepath="$PROJECT_DIR$/springcloudalibaba_05sentinel/springcloudalibaba_05sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudalibaba_parent.iml" filepath="$PROJECT_DIR$/springcloudalibaba_parent.iml" />
+    </modules>
+  </component>
+</project>

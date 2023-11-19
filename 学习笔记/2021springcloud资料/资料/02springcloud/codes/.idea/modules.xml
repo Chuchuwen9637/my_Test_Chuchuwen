@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_01eureka_server/springcloud_01eureka_server.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_01eureka_server/springcloud_01eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_02eureka_client/springcloud_02eureka_client.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_02eureka_client/springcloud_02eureka_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_03consulclient/springcloud_03consulclient.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_03consulclient/springcloud_03consulclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_04users/springcloud_04users.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_04users/springcloud_04users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_05orders/springcloud_05orders.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_05orders/springcloud_05orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_06category/springcloud_06category.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_06category/springcloud_06category.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_07product/springcloud_07product.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_07product/springcloud_07product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_08hystrix/springcloud_08hystrix.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_08hystrix/springcloud_08hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_09openfeign_hystrix/springcloud_09openfeign_hystrix.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_09openfeign_hystrix/springcloud_09openfeign_hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_10hystrix_dashboard/springcloud_10hystrix_dashboard.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_10hystrix_dashboard/springcloud_10hystrix_dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_11gateway/springcloud_11gateway.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_11gateway/springcloud_11gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_12configserver/springcloud_12configserver.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_12configserver/springcloud_12configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_13configclient/springcloud_13configclient.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_13configclient/springcloud_13configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_parent.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_parent.iml" />
+    </modules>
+  </component>
+</project>

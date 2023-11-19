@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud_alibaba_commons" />
+        <module name="springcloud_alibaba_gateway" />
+        <module name="springcloud_alibaba_products" />
+        <module name="springcloud_alibaba_users" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud_alibaba_commons" target="1.8" />
+      <module name="springcloud_alibaba_gateway" target="1.8" />
+      <module name="springcloud_alibaba_parent" target="1.8" />
+      <module name="springcloud_alibaba_products" target="1.8" />
+      <module name="springcloud_alibaba_users" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

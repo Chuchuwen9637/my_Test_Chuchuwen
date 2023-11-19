@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springcloud_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_01eureka_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_02eureka_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_03consulclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_04users" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_05orders" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_06category" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_07product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_08hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_09openfeign_hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_10hystrix_dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_11gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_12configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud_13configclient" charset="UTF-8" />
+  </component>
+</project>

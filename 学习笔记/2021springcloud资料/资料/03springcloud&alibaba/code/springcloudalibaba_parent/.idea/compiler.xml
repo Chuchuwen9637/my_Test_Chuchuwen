@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloudalibaba_01nacosclient" />
+        <module name="springcloudalibaba_02users" />
+        <module name="springcloudalibaba_03products" />
+        <module name="springcloudalibaba_04configclient" />
+        <module name="springcloudalibaba_05sentinel" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloudalibaba_01nacosclient" target="1.8" />
+      <module name="springcloudalibaba_02users" target="1.8" />
+      <module name="springcloudalibaba_03products" target="1.8" />
+      <module name="springcloudalibaba_04configclient" target="1.8" />
+      <module name="springcloudalibaba_05sentinel" target="1.8" />
+      <module name="springcloudalibaba_parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
